@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\27rolanbaker.CANBYSD\Documents\RaylibTesting\RaylibTesting\raylib\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\27rolanbaker.CANBYSD\Documents\RaylibTesting\RaylibTesting\raylib\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>.\raylib\include;$(IncludePath)</IncludePath>
+    <LibraryPath>.\raylib\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
