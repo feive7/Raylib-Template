@@ -19,4 +19,18 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="raypoly\include\raypoly.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tiledpp\include\json.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rayviewport\include\viewport.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tiledpp\include\tiledpp.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
